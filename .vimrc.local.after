@@ -1,4 +1,0 @@
-set number
-
-set bdir=~/.vimfiles
-set directory=~/.vimfiles
