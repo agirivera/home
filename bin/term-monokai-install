@@ -1,0 +1,6 @@
+#! /bin/sh
+
+git clone https://github.com/pricco/gnome-terminal-colors-monokai.git ~/.gnome-terminal-colors-monokai
+cd ~/.gnome-terminal-colors-monokai
+./install.sh
+cd -
